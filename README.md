@@ -69,10 +69,6 @@ I enjoy turning complex research into practical, real-world solutions ☕.
 
 <img src="https://github-readme-stats.vercel.app/api?username=AbdurahmanAlmuhammad&show_icons=true&theme=dracula&hide_border=true" alt="Abdurahman's GitHub Stats" />
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdurahmanAlmuhammad&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-
 </div>
 
 ---
