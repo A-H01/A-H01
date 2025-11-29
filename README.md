@@ -59,4 +59,19 @@ I enjoy turning complex research into practical, real-world solutions ☕.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbdurahmanAlmuhammad&show_icons=true&theme=dracula&hide_border=true" alt="Abdurahman's GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=AbdurahmanAlmuhammad&show_icons=true&theme=dracula&hide_border=true" alt="Abdurahman's GitHub Stats" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdurahmanAlmuhammad&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🎮 Bonus Game
+
+Need a quick break from training models?
+
+🦕 **Play the T-Rex Runner Game:**  
+https://github.com/shubham-kumar-2002/t-rex-runner
