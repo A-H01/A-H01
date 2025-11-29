@@ -1,17 +1,9 @@
 <div align="center">
 
-
-
-<!-- 🎨 Custom Animated Banner -->
-
-<!-- 🎨 Animated Typing Effect -->
-
-<a href="https://git.io/typing-svg">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26pause%3D1000%26color%3D3F51B5%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DBuilding%2BIntelligent%2BSystems%3BExploring%2BGenAI%2B%2526%2BComputer%2BVision%3BTurning%2BIdeas%2Binto%2BReality%3BCoffee%2B%252B%2BCode%2B%253D%2BMagic%2B%25E2%2598%2595" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there!+%F0%9F%91%8B;'m+Abdurahman+Computer+Engineer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <p>
-Passionate about <b>Generative AI</b>, <b>Computer Vision</b>, and building intelligent systems 🚀.
+Passionate about <b>Artificial Intelligence</b>, <b>Generative AI</b>, <b>Computer Vision</b>, and building intelligent systems 🚀.
 
 
 
@@ -26,7 +18,7 @@ I enjoy turning complex research into practical, real-world solutions ☕.
 ## 🐣 About Me
 
 - 🔭 Currently exploring: **Generative AI, Computer Vision, and Vision-Language Models (VLMs)**.
-- 💼 Hands-on experience in **GenAI**, **OCR systems**, and **Robotics Research**.
+- 💼 Hands-on experience in **GenAI**, and **OCR systems**.
 - 🏆 Highlights:
   - 🥈 **Huawei ICT Competition – 2nd Place (AI Track)**
   - 🏅 **VEX Robotics National Award**
@@ -51,6 +43,8 @@ I enjoy turning complex research into practical, real-world solutions ☕.
 ### 🧠 AI / Machine Learning & GenAI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-4B2E83?style=for-the-badge&logo=graph&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge&logo=google&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black)
