@@ -22,7 +22,7 @@ I enjoy turning complex research into practical, real-world solutions ☕.
 ## 🌐 Connect with Me
 
 <div align="left">
-<a href="https://linkedin.com/in/abdurahman-almuhammad" target="_blank">
+<a href="https://linkedin.com/in/almuhammad" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <a href="mailto:almuhammad.ab@gmail.com">
@@ -69,9 +69,3 @@ I enjoy turning complex research into practical, real-world solutions ☕.
 
 ---
 
-## 🎮 Bonus Game
-
-Need a quick break from training models?
-
-🦕 **Play the T-Rex Runner Game:**  
-https://github.com/shubham-kumar-2002/t-rex-runner
