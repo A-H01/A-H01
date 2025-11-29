@@ -20,7 +20,7 @@ I enjoy turning complex research into practical, real-world solutions ☕.
 - 🔭 Currently exploring: **Generative AI, Computer Vision, and Vision-Language Models (VLMs)**.
 - 💼 Hands-on experience in **GenAI**, and **OCR systems**.
 - 🏆 Highlights:
-  - 🥈 **Huawei ICT Competition – 2nd Place (AI Track)**
+  - 🏅 **Huawei ICT Competition – Innovation Award (AI Track)**
   - 🏅 **VEX Robotics National Award**
 
 ---
