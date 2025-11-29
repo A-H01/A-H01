@@ -1,7 +1,7 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there!+%F0%9F%91%8B;'m+Abdurahman+Computer+Engineer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=8EF718&width=435&lines=Hey+there!+%F0%9F%91%8B;'m+Abdurahman+Computer+Engineer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+---
 <p>
 Passionate about <b>Artificial Intelligence</b>, <b>Generative AI</b>, <b>Computer Vision</b>, and building intelligent systems 🚀.
 
