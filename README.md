@@ -7,8 +7,6 @@ Passionate about <b>Artificial Intelligence</b>, <b>Generative AI</b>, <b>Comput
 
 
 
-
-I enjoy turning complex research into practical, real-world solutions ☕.
 </p>
 
 </div>
