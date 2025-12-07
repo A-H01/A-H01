@@ -16,7 +16,7 @@ Passionate about <b>Artificial Intelligence</b>, <b>Generative AI</b>, <b>Comput
 ## 🐣 About Me
 
 - 🔭 Currently exploring: **Generative AI, Computer Vision, and Vision-Language Models (VLMs)**.
-- 💼 Hands-on experience in **GenAI**, and **OCR systems**.
+- 💼 Hands-on experience in **GenAI**, and **Computer Vision systems**.
 - 🏆 Highlights:
   - 🏅 **Huawei ICT Competition – Innovation Award (AI Track)**
   - 🏅 **VEX Robotics National Award**
