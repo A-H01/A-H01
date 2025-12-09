@@ -13,7 +13,7 @@ Passionate about <b>Artificial Intelligence</b>, <b>Generative AI</b>, <b>Comput
 
 ---
 
-## 🐣 About Me
+## 🤖 About Me
 
 - 💼 Hands-on experience in **GenAI**, and **Computer Vision systems**.
 - 🏆 Highlights:
